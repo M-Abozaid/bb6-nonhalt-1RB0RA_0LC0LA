@@ -1,0 +1,5 @@
+name = "m8"
+defaultTargets = ["M8"]
+
+[[lean_lib]]
+name = "M8"
